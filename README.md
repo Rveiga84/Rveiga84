@@ -1,23 +1,58 @@
-### Hi there, I'm so glad you land here! 👋
-My name is Rafael, Data Analyst from USA to worldwide.
+# Rafael Robinson Cardoso Veiga
+### Data Analyst | Occupational Health & Safety Specialist | Certified Google Data Analytics
 
-# About me
-Seasoned professional with over 16 years in Occupational Health and Safety and a robust background in Physical Education. Strong passion for leveraging data in decision-making, bolstered by a proficiency in SQL, R programming, and visualization tools such as Tableau and Data Studio. Effective communicator with fluency in three languages, ready to synthesize complex information to provide thoughtful, data-driven solutions in a global context. Looking for opportunities to leverage my technical skills and passion for data in a challenging role.
+📍 Florida, USA  
+📧 [Email](mailto:rveiga84@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/rafael-veiga-715731100/)  
+🔗 [Projects](https://rveiga84.github.io/projects/)
 
-<!--
-**Rveiga84/Rveiga84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-📊 I'm currently a full time data analyst.
-📐 Degree in mathematics education and currently tutoring high school math part-time.
-🔍 Love learning new skills.
-✏ Post every other week on my blog where I write about data analytics, switching careers or learning new skills.
-✉ I send out a newsletter every other Friday with: 1 new blog post from me; and 3 bite-sized resources related to data analytics, learning, and careers.
-🛠 Skills and Tools
-Tools: Tableau; SQL (JOINS, ORER BY, GROUP BY); Python (Pandas, NumPy); R (ggplot2, tidyverse); Excel (Pivot tables, Vlookup, Charts), Google Looker, Google BigQuery
-Skills: Critical Thinking; Problem Solving; Technical & Content Writing; Leadership; Communication.
-📚 Projects
-View my portfolio projects on my website.
-View my coding projects on Github.
-View my data vidualizations on Tableau Public.
-⭐ Favorite Projects
--->
+## About
+A seasoned professional with over 16 years in Occupational Health and Safety and a background in Physical Education. Passionate about leveraging data for informed decision-making, with proficiency in SQL, R programming, and visualization tools like Tableau and Data Studio. Fluent in three languages, adept at synthesizing complex information to deliver data-driven solutions globally. Seeking roles that challenge my technical skills and passion for data.
+
+---
+
+## Skills
+**Industry Skills:**  
+- Data Cleaning and Preparation
+- Statistical Analysis
+- Predictive Modeling
+- Risk Assessment and Management
+
+**Technical Skills:**  
+- SQL
+- Data Visualization (Tableau, Data Studio)
+- R Programming
+- Statistical Analysis
+- Data Cleaning and Preparation
+- Spreadsheets
+- AI programs
+
+**Soft Skills:**  
+- Decision Making
+- Quick Learning
+- Team Collaboration
+- Analytical & Critical Thinking
+- Problem-Solving
+- Multilingual Communication (Portuguese - native, English - fluent, Spanish - conversational)
+
+---
+
+## Experience Highlights
+
+**L3 Homem Improvements LLC / Installer**  
+*August 2019 - June 2023, Orlando-FL*  
+Floor installer specializing in a wide range of materials for diverse clients. Emphasis on precision, safety, and client satisfaction.
+
+**Santa Luiza Agropecuária Ltda / OHS Technician**  
+*January 2001 - June 2017, Novo Horizonte-SP/Brazil*  
+Managed safety programs, conducted risk assessments, and emphasized employee well-being.
+
+**Rafael Veiga / Personal Trainer**  
+*January 2006 - June 2019, Novo Horizonte-SP/Brazil*  
+Dedicated to helping clients achieve fitness goals through tailored workout plans and nutrition guidance.
+
+---
+
+Feel free to connect or reach out for collaboration opportunities!
