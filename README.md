@@ -41,17 +41,33 @@ A seasoned professional with over 16 years in Occupational Health and Safety and
 
 ## Experience Highlights
 
-**L3 Homem Improvements LLC / Installer**  
+**L3 Homes Improvements LLC / Specialist**  
 *August 2019 - June 2023, Orlando-FL*  
-Floor installer specializing in a wide range of materials for diverse clients. Emphasis on precision, safety, and client satisfaction.
+Demonstrated expertise in installing and repairing a wide range of flooring materials for residential, commercial, and industrial
+clients. Utilized data tools to optimize material inventory, enhancing
+efficiency and reducing waste. Skilled in preparing subfloors, accurately measuring and cutting materials, ensuring precise installations backed by a data-driven approach. Analyzed customer feedback to refine installation techniques and drive exceptional results.
+Adhered to rigorous safety standards and used data-driven assessments to enhance safety protocols.
+
 
 **Santa Luiza Agropecuária Ltda / OHS Technician**  
 *January 2001 - June 2017, Novo Horizonte-SP/Brazil*  
-Managed safety programs, conducted risk assessments, and emphasized employee well-being.
+Ensured a safe workplace by managing safety programs, conducting risk assessments, and enforcing regulations with a focus on reducing
+hazards and promoting employee well-being.
+Incorporated data analytics into safety assessments to identify and
+effectively mitigate workplace hazards.
+Used Spreadsheets and Analytical and Critical Thinking to track and predict safety trends, directing safety initiatives that were vital for preventing accidents and health issues.
+
 
 **Rafael Veiga / Personal Trainer**  
 *January 2006 - June 2019, Novo Horizonte-SP/Brazil*  
-Dedicated to helping clients achieve fitness goals through tailored workout plans and nutrition guidance.
+Dedicated to helping clients achieve fitness goals through customized
+workout plans, and data-supported tracking.
+Introduced a data-driven approach using spreadsheets and other tools
+to assess individual fitness needs and progress.
+Passionate about promoting a healthy lifestyle, offering motivational
+support, and using data to inspire clients to reach peak physical
+performance.
+
 
 ---
 
