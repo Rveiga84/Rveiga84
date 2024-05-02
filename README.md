@@ -1,35 +1,31 @@
-# Hello there! I'm Rafael. 👋
+Hello there! I'm Rafael. 👋
+I am a Data Analyst with extensive experience across different industries, including Occupational Health & Safety and Digital Marketing. My 16+ years in various sectors have honed my ability to apply data-driven insights to enhance operational efficiency and decision-making.
 
-I'm a **Data Analyst** with a deep-rooted passion for Occupational Health & Safety. With over 16 years in the field, I've witnessed the transformative power of data in decision-making. Today, I blend my industry expertise with modern data analytics tools to drive impactful changes.
+🌐 Based in Florida, USA
+🔍 Certified in Google Data Analytics and The Complete Python Developer
+🌍 Multilingual: Portuguese (native), English (fluent), Spanish (conversational)
 
-🌐 I'm based in **Florida, USA**  
-🔍 Certified in **Google Data Analytics**  
-🌍 Multilingual: **Portuguese** (native), **English** (fluent), and **Spanish** (conversational)  
+📊 Data & Analysis
+Data is the cornerstone of all my professional endeavors, providing the insights necessary to drive strategic changes. My toolkit includes:
 
-## 📊 Data & Me
+SQL and Spreadsheets: Expertise in data management and complex querying.
+Python and R: Proficient in statistical analysis, modeling, and data manipulation.
+Data Visualization: Adept at creating impactful visualizations using Excel, R, and Python libraries to articulate complex data insights effectively.
+🛠 Professional Experience
+My career spans several dynamic environments:
 
-Data isn't just numbers on a screen for me; it's a language that, when interpreted right, can bring about meaningful change. My toolkit includes:
-- **SQL** and **Spreadsheets** for digging deep into databases
-- **R Programming** and **Python** for statistical analysis and modeling
-- Visualization tools like **Tableau** and **Data Studio** to bring data to life
+Marketing Data Analyst | Magnolia Creative Studios: Lead data analytics projects to refine marketing strategies, enhance client engagement, and increase conversion rates within the wedding industry.
+L3 Home Improvements LLC: Developed precision skills as a Floor Installer, focusing on detailed project completions.
+Santa Luiza Agropecuária Ltda: Spearheaded safety and wellness programs, improving workplace safety and enhancing employee health.
+📈 Career Highlights
+From creating predictive models that inform strategic decisions to conducting comprehensive data analyses that transform business practices, my career reflects a deep commitment to leveraging data for success.
 
-## 🛠 Industry Background
-
-Having spent years in Occupational Health & Safety, I've cultivated a keen eye for detail. This experience has given me a unique perspective on data's role in risk assessment, predictive modeling, and overall safety management.
-
-## 📈 My Journey
-
-- 🏠 **L3 Homem Improvements LLC** - Perfected the art of precision as a Floor Installer
-- 🌱 **Santa Luiza Agropecuária Ltda** - Advocated for workplace safety and employee well-being
-- 💪 **Personal Trainer** - Guided clients towards their fitness goals with customized strategies
-
-## 🤝 Let's Connect!
-
-I'm always on the lookout for exciting collaborations and projects. Whether you want to talk data, safety, or anything in between, feel free to reach out!
+🤝 Connect With Me
+I am keen to explore new opportunities and collaborations that utilize my data analysis skills to solve complex problems. If you want to discuss data, safety, marketing analytics, or anything in between, feel free to reach out!
 
 📧 [Email me](mailto:rveiga84@gmail.com)  
 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/rafael-veiga-715731100/)  
 📂 [Check out my projects](https://rveiga84.github.io/projects/)
 
-Thanks for stopping by!
+Thank you for exploring my professional profile!
 
